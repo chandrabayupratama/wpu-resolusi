@@ -5,6 +5,5 @@ WPU Resolusi
 4. Markdown
 5. Latex
 6. Python
-7. R
-8. Raspberry OS
-9. Nuvoton
+7. ESP-IDF
+8. Wokwi
