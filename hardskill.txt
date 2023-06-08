@@ -1,0 +1,4 @@
+hardskill
+-solder
+-potong kabel
+-cetak pcb
