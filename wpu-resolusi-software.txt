@@ -6,3 +6,5 @@ WPU Resolusi
 5. Latex
 6. Python
 7. R
+8. Raspberry OS
+9. Nuvoton
