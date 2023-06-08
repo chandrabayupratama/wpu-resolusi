@@ -6,4 +6,5 @@ WPU Resolusi
 5. Latex
 6. Python
 7. ESP-IDF
-8. Wokwi
+8. EasyEDA
+9. Wokwi
