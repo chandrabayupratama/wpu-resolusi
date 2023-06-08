@@ -5,4 +5,5 @@ WPU Resolusi
 4. Markdown
 5. Latex
 6. Python
-7. R
+7. ESP-IDF
+8. Wokwi
