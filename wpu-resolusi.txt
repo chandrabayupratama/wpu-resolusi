@@ -1,5 +1,5 @@
 WPU Resolusi
-1. Github
+1. Arduino
 2. UML
 3. VScode
 4. Markdown
