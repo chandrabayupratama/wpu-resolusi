@@ -2,3 +2,5 @@ WPU Resolusi
 1. Github
 2. UML
 3. VScode
+4. Markdown
+5. Latex
