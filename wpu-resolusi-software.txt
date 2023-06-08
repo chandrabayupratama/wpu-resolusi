@@ -1,6 +1,7 @@
 WPU Resolusi
-1. Arduino
+1. Arduino IDE
 2. UML
 3. VScode
 4. Markdown
 5. Latex
+6. Python
