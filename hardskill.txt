@@ -5,3 +5,4 @@ hardskill
 -cetak pcb
 -sedot timah
 -alat ukur
+-K3
