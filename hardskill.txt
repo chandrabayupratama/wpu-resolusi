@@ -2,5 +2,6 @@ hardskill
 -k3
 -multimeter
 -solder
--potong kabel
 -cetak pcb
+-sedot timah
+-alat ukur
